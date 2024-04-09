@@ -6,3 +6,4 @@ The application offers a seamless user experience with intuitive input fields an
 With the added functionality of a "Reset" button, users can easily clear the input field and reset the displayed statistics for a streamlined interaction.
 
 
+![output](https://github.com/VinuthaTJ179/LeetCode-User-Stats-Viewer/assets/93989675/f6e82e8b-94c1-4005-8078-8f0eb268e529)
